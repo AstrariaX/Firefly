@@ -45,7 +45,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		desktop: [
 			"https://t.alcy.cc/pc",
 			"assets/images/DesktopWallpaper/1.jpg",
-			"assets/images/DesktopWallpaper/2,jpg",
+			"assets/images/DesktopWallpaper/2.jpg",
 			"assets/images/DesktopWallpaper/3.jpg",
 			"assets/images/DesktopWallpaper/4.jpg",
 			"assets/images/DesktopWallpaper/5.jpg",
